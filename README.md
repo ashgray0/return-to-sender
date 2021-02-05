@@ -8,3 +8,9 @@ The aim of this project is to make a Eurorack module that consists of an incredi
 Each of the 4 VCAs is controlled by a capactive touch plate. Since small parameter changes tend to result in non-linear, chaotic responses in the feedback loops, small changes in pressure applied to the touch plates should create a highly expressive performance interface. Alternatively, the VCAs can also be controlled by CV inputs. Each channel also includes its own Send/Return, which allows for both re-routing the feedback path and for introducing external effects into the feedback path (any time-based effect should yield particularly interesting results!).
 
 The schematic in this repository is just a basic outline of the concept I put together one night recently (after watching a bunch of no-input mixing performance videos on YouTube and having the initial idea). Needless to say, this is a WORK IN PROGRESS and does not represent any sort finished product.
+
+Sources:
+
+Music Things Modular Mikrophonie (adapted to use as input preamp): https://github.com/TomWhitwell/Mikrophonie
+
+Big Muff Pi tone circuit: http://www.muzique.com/lab/tone3.htm
